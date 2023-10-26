@@ -184,6 +184,8 @@ button:hover {
 	}
 
 	.subContainer {
+		width: 100%
+		margin: 0px
 		flex-direction: column;
 	}
 
